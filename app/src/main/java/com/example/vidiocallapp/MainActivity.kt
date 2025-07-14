@@ -13,8 +13,8 @@ import com.zegocloud.uikit.prebuilt.call.ZegoUIKitPrebuiltCallFragment
 class MainActivity : AppCompatActivity() {
 
     companion object{
-        const val APP_ID : Long = 1102039514
-        const val APP_SIGN = "da2e3c456a3d723e90ca4e7aea6765c553dc40db5392bbafeb7a3f35ea5d8dbb"
+        const val APP_ID : Long =
+        const val APP_SIGN = ""
         const val CALL_ID = "12345"
 
     }
